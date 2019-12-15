@@ -43,18 +43,22 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
-    color: white;
+    background-color: #e9ecef;
+    color: #666;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #3498DB;
     color: white;
+  }
+
+  .future {
+    background-color: #D6EAF8;
   }
 
   .button-bar {
     justify-content: center;
-    color: #4D81B9;
+    color: #3498DB;
     font-size: 24px;
     align-items: center;
   }
