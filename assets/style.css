@@ -51,3 +51,14 @@ body {
     background-color: #ff6961;
     color: white;
   }
+
+  .button-bar {
+    justify-content: center;
+    color: #4D81B9;
+    font-size: 24px;
+    align-items: center;
+  }
+
+  #currentDay {
+    margin: 0px;
+  }
